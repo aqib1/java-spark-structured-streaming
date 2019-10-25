@@ -1,0 +1,5 @@
+/.metadata/
+Spark-Kafka/.gitignore
+Spark-Kafka/mvnw
+Spark-Kafka/mvnw.cmd
+Spark-Kafka/.mvn/
